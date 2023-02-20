@@ -1,4 +1,4 @@
-Description file for my projectimplementation
+Description file for my project implementation
 
 1) how to trigger event 
 
